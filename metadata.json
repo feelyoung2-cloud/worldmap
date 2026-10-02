@@ -1,0 +1,6 @@
+{
+  "name": "세계지도 탐험대 - 초등 6학년 아틀라스",
+  "description": "초등학교 6학년 사회과 대륙과 대양, 주요 국가와 국기, 지형과 랜드마크를 탐험하고 퀴즈를 푸는 인터랙티브 지리 학습 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
